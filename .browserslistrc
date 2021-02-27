@@ -1,0 +1,15 @@
+# 配置文档参考：https://github.com/browserslist/browserslist
+
+# 兼容到超过百分之1的用户使用的浏览器
+# > 1%
+
+# 兼容到最近的两个版本
+# last 2 versions
+
+# ['Android >= 4.0', 'iOS >= 8']
+
+[Android]
+>=4.0
+
+[iOS]
+>= 8
