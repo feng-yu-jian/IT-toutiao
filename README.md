@@ -9,7 +9,7 @@
 
 **线上地址**：  `http://toutiao.xunta.space/#/`
 
-**相关资源**：   (Vue.js PC端项目--IT头条内容发布管理系统)[https://github.com/feng-yu-jian/IT-toutiao-admin]
+**相关资源**：  [Vue.js PC端项目--IT头条内容发布管理系统](https://github.com/feng-yu-jian/IT-toutiao-admin)
 
 项目已经完成功能如下：
 
