@@ -7,7 +7,7 @@
 > 本项目采用前后端分离的开发模式，使用 Vue.js 和 vant组件库 构建的移动端 SPA 单页面应用程序。
 >
 
-**线上地址**：  `http://toutiao.xunta.space/#/`
+**线上地址**：  http://toutiao.xunta.space/#/
 
 **相关资源**：  [Vue.js PC端项目--IT头条内容发布管理系统](https://github.com/feng-yu-jian/IT-toutiao-admin)
 
